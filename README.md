@@ -1,0 +1,1 @@
+Uses skypatcher to dynamically distribute modded armors as variants of vanilla armor types. Each armor piece is added to a relevant sublist, so you will end up with armor sets that draw from a variety of armors rather than matching sets. Armors have been placed at appropriate levels based on how their armor values compare to vanilla armors.
